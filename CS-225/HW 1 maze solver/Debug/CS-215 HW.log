@@ -1,0 +1,4 @@
+﻿  hw1 maze.cpp
+C:\Users\Thomas\source\repos\CS-215 HW\hw1 maze.cpp(28,6): warning C4101: 'row': unreferenced local variable
+C:\Users\Thomas\source\repos\CS-215 HW\hw1 maze.cpp(28,11): warning C4101: 'col': unreferenced local variable
+  CS-215 HW.vcxproj -> C:\Users\Thomas\source\repos\CS-215 HW\Debug\CS-215 HW.exe
