@@ -1,0 +1,11 @@
+Your functions are printing instead of returning....Yuck.
+
+binNBits -  - looks like you are putting negative sign on wrong side of '0b'
+signedBin - not Implemented
+signedInt - not Implemented
+addBinary - not Implemented
+float2bin -  not Implemented
+bin2float - not Implemented
+Special Cases - not Implemented
+
+Grade: Progress
