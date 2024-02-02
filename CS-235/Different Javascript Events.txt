@@ -1,0 +1,22 @@
+OnClick
+
+The onclick event is pretty self explanitory, a script is executed when the user clicks on a specified element in the HTML document. This can be useful in many different
+ways. Things like hyperlinks that can take the user from one page to another is a possible use for this event. Any instance where an HTML requires a user to submit inputed
+data can use the onclick event to initiate the data submission
+
+onkeypress
+
+This event occurs when the user presses a designated key. This event is helpful when typing, for example, since each key is assigned a character that when pressed will
+display on the screen. the keypress event is also helpful for hotkeys especially when used in conjunction with other key events such as, altkey and ctrlkey. It can help
+make certain softwares easier and more efficient to use
+
+onload
+
+The onload event executes a script at the instant that the page loads. This is commonly used for pop-ups when a webpage is loaded the onload event causes that pop-up to
+appear and get in the way of whatever content is on the website that way people are more likely to accidentally download trojan viruses on their computer or you can skip
+the pop-up part and write a function that immediately starts the download once the page loads.
+
+onended
+
+The onended event occurs when the user has reached the end of an audio file being played through HTML. This is a helpful event when you want to display a message after the
+audio has been listened to or play another audio afterwards.
