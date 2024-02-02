@@ -1,0 +1,1 @@
+uses various patterns from OOP to simulate a stock market. Also comes with a user interface to display the data
